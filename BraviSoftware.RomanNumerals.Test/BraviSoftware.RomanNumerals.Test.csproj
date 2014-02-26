@@ -46,7 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="DecimalToRomanTest.cs" />
+    <Compile Include="RomanToDecimalTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BraviSoftware.RomanNumerals\BraviSoftware.RomanNumerals.csproj">
